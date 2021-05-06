@@ -1,0 +1,20 @@
+th{
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+caption{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.not-active {
+    pointer-events: none;
+    cursor: default;
+}
+textarea{
+    resize: none;
+    outline: none;
+}
